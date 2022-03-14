@@ -1,17 +1,14 @@
 # BugHunt3r
-#### A virtual machine machine (ova) file where almost all bug bounty tools are installed.
-### OS: Kali
-### Version: 2022.1
+#### A virtual machine (.ova) file where almost all bug bounty tools are installed; specially `burpsuite pro` with license :)
+#### OS: `Kali-Linux`
+#### Version: `2022.1`
 #### Download link:
 
-############################################
-	     akrech@bughunt3r
-############################################
 
-# `Installed top 20 tools and binaries`
+## `Installed top 20 tools and binaries`
 
 ```http
-[1]burpsuite professonal
+[1]burpsuite professional
 [2]zaproxy
 [3]crlfuzz
 [4]ffuf
@@ -32,11 +29,14 @@
 [19]wpscan
 [20]jd-gui
 ```
-### check /opt for more
+#### check `/opt` for more
 
-### also `OWASP juice-shop` added for practise
+#### also `OWASP juice-shop` added for practise
 
-### location: `/home/kali/Downloads/JuiceShop`
+#### location: `/home/kali/Downloads/JuiceShop`
 
+
+### Required packages, if you want to install more extention.
+#### jython [link](https://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar) (.jar)
 
 
