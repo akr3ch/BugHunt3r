@@ -1,15 +1,16 @@
 # BugHunt3r
-A virtual machine machine (ova)file where almost all bug bounty tools are installed.
-
-Drive link:
+#### A virtual machine machine (ova) file where almost all bug bounty tools are installed.
+### OS: Kali
+### Version: 2022.1
+#### Download link:
 
 ############################################
 	     akrech@bughunt3r
 ############################################
 
-`Installed top 20 tools and binaries`
+# `Installed top 20 tools and binaries`
 
-`
+```http
 [1]burpsuite professonal
 [2]zaproxy
 [3]crlfuzz
@@ -30,12 +31,12 @@ Drive link:
 [18]arjun
 [19]wpscan
 [20]jd-gui
-`
-check /opt for more
+```
+### check /opt for more
 
-also OWASP juice-shop added for practise
+### also `OWASP juice-shop` added for practise
 
-location: ~/Downloads/JuiceShop
+### location: `/home/kali/Downloads/JuiceShop`
 
 
 
