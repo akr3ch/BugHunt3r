@@ -3,7 +3,8 @@
 #### OS: `Kali-Linux`
 #### Version: `2022.1`
 #### Download link: [BugHunt3r.ova](https://drive.google.com/file/d/1Tkj3jKOvL7M08zG5JGVoqhZh50VMyM3X/view?usp=sharing)
-<img src=/BugHunt3r.png>
+#### File size: 6 GB
+<img src=BugHunt3r.png>
 
 ## `Installed top 20 tools and binaries`
 
