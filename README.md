@@ -36,8 +36,9 @@
 
 #### location: `/home/kali/Downloads/JuiceShop`
 
-
-### Required packages, if you want to install more extention.
+## Official links
+### Required packages, if you want to install more extention in `Burpsuite Professional`.
 #### jython [link](https://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar) (.jar)
+#### jruby [link](https://repo1.maven.org/maven2/org/jruby/jruby-complete/9.3.3.0/jruby-complete-9.3.3.0.jar) (.jar)
 
 
